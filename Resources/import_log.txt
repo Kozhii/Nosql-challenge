@@ -1,0 +1,3 @@
+2023-09-19T22:43:37.487-0400	connected to: mongodb://localhost/
+2023-09-19T22:43:37.749-0400	Failed: cannot decode array into a primitive.D
+2023-09-19T22:43:37.749-0400	0 document(s) imported successfully. 0 document(s) failed to import.
